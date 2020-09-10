@@ -19,6 +19,8 @@ What you do with EasyPacket is 100% *your responsibility*. Some of the tools/scr
 
 ## Currently Implemented Functions
 
-* ARP Ping `arp_ping.py`
+* ARP Ping: `arp_ping.py`
 
-* TCP Port Scanner `tcp_port_scan.py`
+* TCP Port Scanner: `tcp_port_scan.py`
+
+* Get internal IP address: `get_internal_ip.py`
