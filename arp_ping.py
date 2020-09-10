@@ -7,4 +7,4 @@ def arpPing(dest):
     msg = "Sending ARP Ping Packets to: " + dest
     print(msg)
     arppinger = sr(IP(dst=dest, proto=(1,254)))
-    arppinger()
+    arppinger
