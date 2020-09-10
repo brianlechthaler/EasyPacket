@@ -24,3 +24,5 @@ What you do with EasyPacket is 100% *your responsibility*. Some of the tools/scr
 * TCP Port Scanner: `tcp_port_scan.py`
 
 * Get internal IP address: `get_internal_ip.py`
+
+* Get MAC Address of hardware interface: `get_iface_mac.py`
