@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '--pull', '-t', 'gcr.io/$PROJECT-ID/easypacket:latest', '.']
+images:
+- 'gcr.io/$PROJECT-ID/easypacket:latest'
